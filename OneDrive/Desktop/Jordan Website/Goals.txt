@@ -1,0 +1,60 @@
+* = completed
+
+Next Goals:
+
+
+9. Create a separate FAQ page
+9a. Create a separate Pricing page
+
+
+4. Make the booking page (No Longer Needed)
+4a. Continue styling the booking page, Also Add functionality so it can save the inputs and 
+    used for another page. Also add more months to select with the arrows. 
+4b. Style the booking page so it looks like a calendar and the time should be selected as well
+4c. Setup Google Calendar API to allow users appointments to be added to the calendar 
+4d. Setup logic to make Necessary API calls
+
+7. Create a carusel for the pictures in the Mission Section
+       The carusel will show one picture and have a few words on the right and will transition
+       on a 4 sec timer to the next picture with words
+       * Add an Arrow to manually scroll through them *
+
+5. Make the Admin dashboard page
+5a.  Create a scheduler dashboard that will show all upcoming appointments in a list format
+5b.  Admin dashboard should have a dropdown menu to set appointment to different statuses (completed, Cancelled, Refunded, etc.)
+Items to have on Admin Dashboard:
+       User feedback inputs
+       Newsletter sign ups (Doesn't have to be called Newsletter)
+       Page Clicks
+       Website Source Tracker (Shows where they came from to get to the site)
+       Booking Link Clicks
+       Most Viewed FAQ
+
+
+
+
+
+
+Future-tense:
+
+6. Create a database to store users information regarding their booking info
+6a.  Database will be used to store the following info:
+       1. User's Full Name
+       2. User's Email Address
+       3. User's Phone Number  
+       4. User's Booking Date
+       5. User's Booking Time
+
+
+
+
+
+
+Color Schemes:
+
+try these colors out #B0DE7F (meadow green as background),
+#6D3B07(mocha brown as nav bar/card colors), 
+#ffdab9(stone brown as accent color)
+#5A3828(Walnut brown Potential Card Color)
+original Discover your relief color (#CCCCFF)
+#f0f0f3(Current card color)
