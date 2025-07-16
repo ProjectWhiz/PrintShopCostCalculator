@@ -1,0 +1,27 @@
+Project Goals
+
+Goal #1: Complete UI for all components and ensure each function works
+- Finish Navbar
+- Create a Header that has the name of the web app
+- Create a modernish upload area that
+- Set up an list part of the upload component for easier understanding for users
+- Optimize for Mobile
+Goal #2: Complete Backend for Data Manipulation to generate the 10%
+- Parse data and generate 10% of total amount
+- Complete error handling for:
+    Incorrect File Type
+    Misc Errors
+- Enable users to save data and different file types ie (PDF, txt, CSV)
+- Save previous uploads for auditing later on
+Goal #3: Deploy to Production Server
+- Use Vercel for frontend deployment
+- Find a deployment method for backend (Maybe Heroku???)
+- Test for Bugs
+- Test for mobile uploads as the desktop version may not be available due to DOD Restrictions
+Current Status: 
+
+- Setup the react and flask frameworks and served flask to the frontend for easy of use
+- Created some simple components for overall vision purposes but does not have full functionality yet
+- Set up .env file for secret key
+- Added a file upload button that allows for uploading and shows what is uploaded on screen
+

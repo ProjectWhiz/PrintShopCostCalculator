@@ -1,0 +1,47 @@
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+input[type="file"],
+input[type="number"] {
+  width: 100%;
+  padding: 0.4rem;
+  margin-top: 0.3rem;
+}
+
+button {
+  background: #4CAF50;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 6px;
+}
+
+button:disabled {
+  background: #ccc;
+}
+
+.results {
+  margin-top: 2rem;
+}
+
+.results a {
+  text-decoration: none;
+  color: #007bff;
+}
