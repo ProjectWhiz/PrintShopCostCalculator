@@ -1,0 +1,22 @@
+This is the start of a new project called PageFlow
+
+Problem Solving:
+
+    Many people who sell services run into the same issue at a certain point
+    they have the skillset (The skill being the service they sell) and clientele
+    but they want to create a professional website.
+
+    BUT 
+
+    Here in lies the problem. You will need to either pay for a Website designer
+    who is profecient with UI/UX design or create your own within something like
+    Shopify or Wix. You will need to speed an ungodly amount of time creating your
+    site which to take weeks or even MONTHS and sometimes hiring someone may start
+    to get pretty expensive. DON'T even get me started on hard coding your own site.
+    you then have to code everything from scratch and worry about where to host your
+    site then do bug fixing etc
+
+    This project will get rid of this entire step by provide ready to go websites
+    that are already deployed and comes with a domain and payment functionality 
+    All you will need to do is sign-up, pick a website template and input some info
+    and the site will be generated and deployed for you. 
