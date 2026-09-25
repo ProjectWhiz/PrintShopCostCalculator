@@ -2332,6 +2332,9 @@ function App() {
           </div>
         </section>
       )}
+      <p className="version-badge" aria-label="Application version">
+        Version 1.0
+      </p>
     </main>
   )
 }
