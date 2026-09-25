@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
+
+:root {
+  --ink: #182434;
+  --paper: #f6efe9;
+  --display: 'Fraunces', Georgia, serif;
+  --sans: 'IBM Plex Sans', 'Segoe UI', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+  color: var(--ink);
+  font-family: var(--sans);
+  background:
+    radial-gradient(900px 440px at 5% 6%, #f2f6fb, transparent 60%),
+    radial-gradient(980px 550px at 92% 98%, #f2f6fb, transparent 58%),
+    linear-gradient(160deg, #f7efe8 0%, #f2f6fb 100%);
+}
+
+#root {
+  min-height: 100svh;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--display);
+  color: #0f1c2e;
+}
